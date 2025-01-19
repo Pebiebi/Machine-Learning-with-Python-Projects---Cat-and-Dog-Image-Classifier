@@ -39,3 +39,9 @@ The goal of this project is to classify images of cats and dogs with a machine l
 ## Google Colab Notebook
 
 Access the Google Colab notebook [here](https://colab.research.google.com/drive/14rPAPQ_tC9BX_DpTkZciWT1OJysMlr1p#scrollTo=la_Oz6oLlub6&uniqifier=4).
+
+## Contribution
+This project is part of a machine learning challenge, and all improvements or strategies are designed to meet the project requirements. Contributions are not necessary for submission, but improvements are welcome for future versions.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
