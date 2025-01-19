@@ -38,7 +38,7 @@ The goal of this project is to classify images of cats and dogs with a machine l
 
 ## Google Colab Notebook
 
-Access the Google Colab notebook [here](https://colab.research.google.com/github/Pebiebi/Machine-Learning-with-Python-Projects---Cat-and-Dog-Image-Classifier/blob/main/fcc_cat_dog.ipynb]).
+Access the Google Colab notebook [here](https://colab.research.google.com/github/Pebiebi/Machine-Learning-with-Python-Projects---Cat-and-Dog-Image-Classifier/blob/main/fcc_cat_dog.ipynb).
 
 ## Contribution
 This project is part of a machine learning challenge, and all improvements or strategies are designed to meet the project requirements. Contributions are not necessary for submission, but improvements are welcome for future versions.
